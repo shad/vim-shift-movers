@@ -1,7 +1,7 @@
 {
   "name": "vim-shift-movers",
   "main": "./lib/vim-shift-movers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Give your arrow keys a reason to live!",
   "keywords": [],
   "activationCommands": {
