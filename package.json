@@ -2,7 +2,7 @@
   "name": "vim-shift-movers",
   "main": "./lib/vim-shift-movers",
   "version": "0.1.1",
-  "description": "A short description of your package",
+  "description": "Give your arrow keys a reason to live!",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "vim-shift-movers:shift-text-down"
