@@ -1,0 +1,19 @@
+{
+  "name": "vim-shift-movers",
+  "main": "./lib/vim-shift-movers",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "vim-shift-movers:shift-text-up",
+    "atom-workspace": "vim-shift-movers:shift-text-down"
+  },
+  "repository": "https://github.com/shad/vim-shift-movers",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

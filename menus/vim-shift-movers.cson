@@ -1,0 +1,12 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Shift Text Up'
+      'command': 'vim-shift-movers:shift-text-up'
+    },
+    {
+      'label': 'Shift Text Down'
+      'command': 'vim-shift-movers:shift-text-down'
+    }
+  ]
