@@ -5,7 +5,7 @@
   "description": "Give your arrow keys a reason to live!",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "vim-shift-movers:shift-text-down"
+    "atom-workspace": ["vim-shift-movers:shift-text-down", "vim-shift-movers:shift-text-up", "vim-shift-movers:swap-text-up", "vim-shift-movers:swap-text-down"]
   },
   "repository": "https://github.com/shad/vim-shift-movers",
   "license": "MIT",

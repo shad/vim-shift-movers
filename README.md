@@ -23,6 +23,10 @@ will now move lines of text around.
 
 `down` — Add lines above the current line, one at a time.
 
-`right` — Indent current or selected lines
+`right` — Indent current or selected lines.
 
-`left` — Outdent current or selected lines
+`left` — Outdent current or selected lines.
+
+`shift-up` — swap the current line with the one above it.
+
+`shift-down` — swap the current line with the one below it.
